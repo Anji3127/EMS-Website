@@ -1,0 +1,40 @@
+/* AboutUs.css */
+.about-us {
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  margin-top: 2rem;
+}
+
+.about-us h2 {
+  color: #343a40;
+  margin-bottom: 1rem;
+}
+
+.about-us p {
+  color: #6c757d;
+  line-height: 1.6;
+}
+
+.about-us .team-member {
+  margin-top: 1.5rem;
+}
+
+.about-us .team-member img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.about-us .team-member h5 {
+  margin-top: 0.5rem;
+  color: #343a40;
+}
+
+.about-us .team-member p {
+  color: #6c757d;
+}
+
+.team-member{
+  object-fit: contain !important;
+}
